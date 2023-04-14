@@ -6,7 +6,7 @@ My 4th year Capstone project a requirement for my bachelor degree in Information
 
 <b> The purpose of this study is to develop a prototype where a simple blinds can be used into different things. </b>
 
-<h3> Pros </h3>
+<h3> Pros: </h3>
 
 - A blinds can be controlled through the use of your mobile phone
 - You can monitor the humidity and temperature of the room with the use of DHT22
